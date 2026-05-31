@@ -1,9 +1,8 @@
 ---
-
 kanban-plugin: board
-
+aliases:
 ---
-
+🔗Linear Project - https://linear.app/aryan-khandelwal/project/phase-0-foundation-and-validation-b8c9502fda3c/overview
 ## Not Started
 
 - [ ] Decide platform name
