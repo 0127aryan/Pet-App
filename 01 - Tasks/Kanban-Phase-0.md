@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Not Started
@@ -21,10 +23,19 @@ kanban-plugin: board
 - [ ] Finalise community list based on feedback
 - [ ] Identify 5-8 early content creators in Bangalore
 
+
 ## In Progress
+
 
 
 ## Done
 
 
+
+
+
 %% kanban:settings
+```
+{"kanban-plugin":"board","show-checkboxes":true}
+```
+%%
