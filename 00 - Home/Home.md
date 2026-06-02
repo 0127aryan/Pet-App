@@ -11,10 +11,10 @@
 ---
 
 ## 🔴 Must Complete This Week
-- [ ] Decide platform name ⏫ 📅 2026-06-01
+- [x] Decide platform name ⏫ 📅 2026-06-01 ✅ 2026-06-02
 - [ ] Buy domain on Namecheap ⏫ 📅 2026-06-01
-- [ ] Claim Instagram handle ⏫ 📅 2026-06-01
-- [ ] Set up Instagram business account ⏫ 📅 2026-06-02
+- [x] Claim Instagram handle ⏫ 📅 2026-06-01 ✅ 2026-06-02
+- [x] Set up Instagram business account ⏫ 📅 2026-06-02 ✅ 2026-06-02
 - [ ] Post first Instagram meme ⏫ 📅 2026-06-02
 - [ ] Build waitlist on Carrd.co ⏫ 📅 2026-06-03
 - [ ] Connect waitlist to Mailchimp or Resend ⏫ 📅 2026-06-03
