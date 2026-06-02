@@ -1,4 +1,4 @@
-# 🐾 Pet-App — Command Centre
+# 🐾 Furlo — Command Centre
 
 ---
 
